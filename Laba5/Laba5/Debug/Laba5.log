@@ -1,0 +1,6 @@
+﻿  Laba5.cpp
+C:\Users\User\source\repos\Laba5\Laba5\Laba5.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\source\repos\Laba5\Laba5\Laba5.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Laba5\Laba5\Laba5.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Laba5\Laba5\Laba5.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba5.vcxproj -> C:\Users\User\source\repos\Laba5\Debug\Laba5.exe
