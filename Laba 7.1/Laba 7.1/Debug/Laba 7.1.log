@@ -1,0 +1,2 @@
+﻿Laba 7.1.obj : error LNK2019: ссылка на неразрешенный внешний символ "bool __cdecl is_num(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?is_num@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции _main
+C:\Users\User\source\repos\Laba 7.1\Debug\Laba 7.1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
